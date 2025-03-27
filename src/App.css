@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+
+html, body {
+  margin: 0;
+  padding:   0;
+  background-color: #f4f5f8;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
